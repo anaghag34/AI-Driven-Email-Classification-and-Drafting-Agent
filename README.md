@@ -14,13 +14,13 @@ An intelligent AI-powered email assistant that connects to your Gmail inbox, cla
   * `ad`
   * `informational`
   * `normal`
-* ✉️ Automatically generates replies **only for important ("normal") emails**
-* 🧾 Outputs structured JSON for easy downstream use
-* 🧹 Cleans and extracts readable text from HTML emails
+* Automatically generates replies **only for important ("normal") emails**
+* Outputs structured JSON for easy downstream use
+* Cleans and extracts readable text from HTML emails
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 1. **Gmail API Integration**
 
